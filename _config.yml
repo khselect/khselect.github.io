@@ -74,6 +74,17 @@ exclude:
   - "*.config.js"
   - "package*.json"
 
+# --------------------------
+# Pagination
+# --------------------------
+
+paginate: 10
+toc: true
+
+# --------------------------
+# Archives (중요)
+# --------------------------
+
 jekyll-archives:
   enabled: [categories, tags]
   layouts:
@@ -82,3 +93,23 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# --------------------------
+# Collections
+# --------------------------
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /posts/:title/
+
+sass:
+  style: compressed
