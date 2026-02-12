@@ -1,0 +1,42 @@
+.research-hero {
+  text-align: center;
+  margin: 3rem 0 2rem 0;
+}
+
+.research-hero h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+.research-hero p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0 3rem 0;
+}
+
+.featured-card {
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 1rem;
+  transition: 0.2s ease;
+  background: white;
+}
+
+.featured-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+}
+
+.featured-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
