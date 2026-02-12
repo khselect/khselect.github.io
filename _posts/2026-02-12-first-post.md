@@ -1,6 +1,6 @@
 ---
 title: "위험도 평가/예측 2차년도 계획"
-date: 2026-02-11 16:00:00 +0900
+date: 2026-02-12 18:21:00 +0900
 categories: [Research]
 tags: [AI, Safety Analysis]
 ---
