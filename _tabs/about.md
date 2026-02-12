@@ -20,11 +20,11 @@ My work focuses on bridging statistical modeling and AI system architecture to e
 
 ## Core Technical Focus
 
-- Building high-performance demand forecasting models using LightGBM  
-- Applying Weibull-based reliability modeling for maintenance cost prediction  
-- Designing predictive maintenance recommendation systems for infrastructure assets  
-- Structuring clause-level RAG knowledge architectures for safety diagnostics  
-- Architecting secure on-premise LLM environments using GPT OSS and Ollama  
+- Building high-performance demand forecasting models using LightGBM(2024)
+- Applying Weibull-based reliability modeling for maintenance cost prediction(2025)  
+- Designing predictive maintenance recommendation systems for infrastructure assets(2025)  
+- Structuring clause-level RAG knowledge architectures for safety diagnostics(2025)  
+- Architecting secure on-premise LLM environments using GPT OSS and Ollama(2025-2026)  
 
 ---
 
@@ -77,11 +77,11 @@ order: 4
 
 ## 주요 기술 영역
 
-- LightGBM 기반 지하철 수요 예측 모델 설계
-- Weibull 분포 기반 유지보수 비용 예측 및 신뢰성 분석
-- 시설물 수명 분석 및 예방정비 추천 시스템 설계
-- 법 조항 단위 RAG 기반 안전진단 지식 시스템 아키텍처 설계
-- GPT OSS / Ollama 기반 온프레미스 LLM 시스템 설계
+- LightGBM 기반 지하철 수요 예측 모델 설계(2024)
+- Weibull 분포 기반 유지보수 비용 예측 및 신뢰성 분석(2025)
+- 시설물 수명 분석 및 예방정비 추천 시스템 설계(2025)
+- 법 조항 단위 RAG 기반 안전진단 지식 시스템 아키텍처 설계(2025)
+- GPT OSS / Ollama 기반 온프레미스 LLM 시스템 설계(2025-2026)
 
 ---
 
