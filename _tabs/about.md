@@ -82,7 +82,7 @@ I am particularly interested in integrating statistical modeling and AI systems 
 ## 학력
 
 - 인하대학교 반도체공학과 졸업
-- 산업경영공학대학원 재학
+- 인하대학교 산업경영공학대학원 재학
 
 ---
 
