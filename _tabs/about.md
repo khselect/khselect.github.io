@@ -53,12 +53,6 @@ Incheon Transit Corporation
 
 I am particularly interested in integrating statistical modeling and AI systems into safety-critical and infrastructure domains, building scalable architectures that turn operational data into actionable intelligence.
 
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 <h1 style="font-size: 2.2rem; font-weight: 800;">
 안전·인프라 도메인 특화 Applied AI 시스템 설계자
 </h1>
