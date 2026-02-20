@@ -20,12 +20,13 @@ My work focuses on bridging statistical modeling and AI system architecture to e
 
 ## Core Technical Focus
 
-- Building high-performance demand forecasting models using LightGBM(2024)
-- Applying Weibull-based reliability modeling for maintenance cost prediction(2025)  
-- Designing predictive maintenance recommendation systems for infrastructure assets(2025)  
-- Structuring clause-level RAG knowledge architectures for safety diagnostics(2025)  
-- Architecting secure on-premise LLM environments using GPT OSS and Ollama(2025-2026)  
-
+- 1. Building high-performance demand forecasting models using LightGBM(2024)
+- 2. Applying Weibull-based reliability modeling for maintenance cost prediction(2025)  
+- 3. Designing predictive maintenance recommendation systems for infrastructure assets(2025)
+   [:fab-github: Repository](https://github.com/khselect/python_projects/tree/main/parts_cycle_dashboard)
+- 4. Structuring clause-level RAG knowledge architectures for safety diagnostics(2025)  
+- 5. Architecting secure on-premise LLM environments using GPT OSS and Ollama (2025-2026) 
+   [:fab-github: Repository](https://github.com/khselect/Safety_AI.git)
 ---
 
 ## Education
