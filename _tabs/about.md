@@ -25,8 +25,7 @@ My work focuses on bridging statistical modeling and AI system architecture to e
 - Designing predictive maintenance recommendation systems for infrastructure assets(2025)
    [:fab-github: Repository](https://github.com/khselect/python_projects/tree/main/parts_cycle_dashboard)
 - Structuring clause-level RAG knowledge architectures for safety diagnostics(2025)  
-- Architecting secure on-premise LLM environments using GPT OSS and Ollama (2025-2026) 
-   [:fab-github: Repository](https://github.com/khselect/Safety_AI.git)
+- [Architecting secure on-premise LLM environments using GPT OSS and Ollama (2025-2026)](https://github.com/khselect/Safety_AI.git)
   
 ---
 
